@@ -6,6 +6,7 @@
 
 
 // CMFCApplication1Dlg dialog
+//bilal
 class CMFCApplication1Dlg : public CDialogEx
 {
 // Construction
